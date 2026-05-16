@@ -64,8 +64,9 @@ Click the PDF → Download button (or right‑click Raw → Save link as).
 Open with any PDF reader (Adobe Acrobat, Chrome, Foxit, etc.).
 
 3️⃣ Clone the Repo for Offline Access
-bash
-git clone https://github.com/yourusername/ai-lab-manual.git
+```bash
+git clone https://github.com/Junaid-Blouch/ai-lab-manual.git
+```
 Then open the PDF from the cloned folder.
 
 4️⃣ Run the Code Examples Yourself
@@ -74,23 +75,20 @@ The manual contains screenshots of code – for real learning, type the code man
 This builds muscle memory and helps you understand errors.
 
 5️⃣ For the Text‑to‑Speech Project (Lab 12)
-If you included the source code in the projects/ folder:
+If you included the source code in the `projects/` folder:
 
-bash
+```bash
 cd projects/text-to-speech-converter
 pip install -r requirements.txt   # or: pip install flask pyttsx3
 python app.py
+```
 Then open http://127.0.0.1:5000 in your browser.
 
 6️⃣ Search Inside the PDF
-Use Ctrl+F (Windows/Linux) or Cmd+F (Mac) to instantly find topics like “BFS”, “Logistic Regression”, or “Iris”.
+Use `Ctrl+F` (Windows/Linux) or `Cmd+F` (Mac) to instantly find topics like “BFS”, “Logistic Regression”, or “Iris”.
 
 7️⃣ Print Only What You Need
 Don’t print the whole manual – print specific labs or pages to save paper.
 
 8️⃣ Suggest Improvements
 Found a typo or error? Open an Issue on GitHub – your feedback helps improve the manual.
-
-
-
-git clone https://github.com/Junaid-Blouch/ai-lab-manual.git
