@@ -51,7 +51,7 @@ All experiments include objectives, theory, algorithms, code screenshots, and sa
 - Required libraries:
   ```bash
   pip install numpy pandas matplotlib seaborn scikit-learn flask pyttsx3
-```
+  ```
 📖 How to Use This Manual
 1️⃣ View Online (No Download)
 Click on the PDF file in this repository (e.g., AI-Lab-Manual.pdf).
